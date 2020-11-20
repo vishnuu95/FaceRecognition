@@ -1,0 +1,5 @@
+from importData import *
+import numpy as np
+
+
+class SVM:
